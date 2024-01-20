@@ -1,0 +1,18 @@
+get http://localhost:5000/sagar?name=sagar
+  Content-Type: application/json
+    Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoic2FnYXIiLCJpYXQiOjE2OTY5MzAwNjZ9.4OMk3bhwVHE8sdkvkNSOCj-0lkRUg2n3f6QGV7nNDr0
+###
+
+
+get http://localhost:8000/video
+
+
+
+###
+
+get http://localhost:5000/home
+    Content-Type: application/json
+    Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoic2FnYXIiLCJpYXQiOjE2OTY5MzAwNjZ9.4OMk3bhwVHE8sdkvkNSOCj-0lkRUg2n3f6QGV7nNDr0
+
+###
+get http://localhost:5000/public

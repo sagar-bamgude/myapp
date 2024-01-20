@@ -1,0 +1,6 @@
+version: '3'
+services:
+  myservice:
+    image: sbamgude1/myapp
+    ports:
+      - "8000:8000"
